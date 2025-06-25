@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Carlos Vasco
 
-<!--
-**thamuzlord/thamuzlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full-Stack Software Developer** with 8+ years of experience, specializing in web development for ecommerce platforms and software migration. I thrive on modernizing systems, leading projects, and delivering scalable, creative solutions.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- **Ecommerce Development** (VTEX, custom platforms)
+- **System Modernization** & migrations
+- **Frontend Mastery:** React, Next.js
+- **Backend Expertise:** PHP, VTEX IO
+- **Project Leadership:** End-to-end delivery, team collaboration, and creative problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&logoColor=white)
+![VTEX](https://img.shields.io/badge/-VTEX-f71963?style=flat&logo=vtex&logoColor=white)
+
+## 🌟 Strengths
+- Creative problem-solver & initiative-taker
+- Collaborative team player
+- Always learning and modernizing
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-Carlos%20Andres%20Vasco-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-andres-vascob9/)
+
+## 🚴 Fun Fact
+On weekends, you’ll probably find me out riding my bike and exploring new places!
