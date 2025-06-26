@@ -7,6 +7,7 @@ I'm a passionate **Full-Stack Software Developer** with 8+ years of experience, 
 - **System Modernization** & migrations
 - **Frontend Mastery:** React, Next.js
 - **Backend Expertise:** PHP, VTEX IO
+- **Agile Methodologies:** Experienced with frameworks like Scrum
 - **Project Leadership:** End-to-end delivery, team collaboration, and creative problem-solving
 
 ## 🛠️ Tech Stack
