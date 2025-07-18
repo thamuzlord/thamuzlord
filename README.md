@@ -11,7 +11,7 @@ I'm a passionate **Full-Stack Software Developer** with 8+ years of experience, 
 - **Project Leadership:** End-to-end delivery, team collaboration, and creative problem-solving
 
 ## 🛠️ Tech Stack
-![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![Javascript](https://img.shields.io/badge/-javascript-blue?logo=javascript)
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&logoColor=white)
