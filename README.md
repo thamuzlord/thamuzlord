@@ -24,6 +24,3 @@ I'm a passionate **Full-Stack Software Developer** with 8+ years of experience, 
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-Carlos%20Andres%20Vasco-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-andres-vascob9/)
-
-## 🚴 Fun Fact
-On weekends, you’ll probably find me out riding my bike and exploring new places!
